@@ -18,7 +18,7 @@
 //#define WLED_USE_SHOJO_PCB
 
 #ifndef BTNPIN
-#define BTNPIN  0  //button pin. Needs to have pullup (gpio0 recommended)
+#define BTNPIN  15  //button pin. Needs to have pullup (gpio0 recommended)
 #endif
 
 #ifndef TOUCHPIN
